@@ -1,4 +1,4 @@
-# MIS-DocumentManagementSystem
+# Document Management System
 This system aims to reduce paper clutters inside the office.
 Instead of consuming space and using paper shelves to keep your
 important documents and spend your valuable time trying to find
